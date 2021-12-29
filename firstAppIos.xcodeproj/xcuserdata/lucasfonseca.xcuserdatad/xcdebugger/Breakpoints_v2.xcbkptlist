@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "350C8E8A-E373-42E3-B10F-20C4DDFA81EA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "52D30B40-6161-489D-A50C-812713FC4573"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x104de16ad">
+            <Locations>
+               <Location
+                  uuid = "52D30B40-6161-489D-A50C-812713FC4573 - 8cd375e8d77b292b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firstAppIos.ContentView.body.getter : some"
+                  moduleName = "firstAppIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasfonseca/Documents/Dev/firstAppIos/firstAppIos/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
